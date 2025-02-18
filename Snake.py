@@ -1,13 +1,4 @@
-"""
-Make Snake with a doubly linked list
-Filename: Clemente_project1.py
-Author: Matthew Clemente
-Date: March 2023
-Course: COMP 1353
-Assignment: make DoublyLinkedSnake class in Python
-Collaborators: None
-Internet Source: None
-"""
+
 
 # import dudraw and doublylinkedlist
 from DoublyLinkedList import DoublyLinkedList
